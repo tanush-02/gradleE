@@ -26,3 +26,4 @@ pipeline{
 			echo "Build Failed"
 			}
 		}
+}
